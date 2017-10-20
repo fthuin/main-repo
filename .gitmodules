@@ -1,0 +1,6 @@
+[submodule "subrepo1"]
+	path = subrepo1
+	url = https://github.com/fthuin/subrepo1.git
+[submodule "subrepo2"]
+	path = subrepo2
+	url = https://github.com/fthuin/subrepo2.git
